@@ -21,13 +21,16 @@
   
   O sistema de chamadas online elemina a chamada pela caderneta, ou algo que possa ter perdas, rasura ou rasgar. Isso permite que o grande número de faltas diminuísse.
   
-  
+  ![descriçao do projeto](https://user-images.githubusercontent.com/130559720/236103894-b64534cf-c2ae-4886-8747-f09434f34bf4.png)
+
 ## Como Funciona
   
   <p align="justify">
-    Esse sistema inicializa primeiramente após os alunos matriculados na unidade escolar realize o cadrasto no sistema, 
+    Esse sistema inicializa primeiramente após os alunos matriculados na unidade escolar realiza o cadrasto, logo após esse primeiro passo o cadrasto dela vai para o sistema, criando um perfil do estudante. Do mesmo jeito com os professores, será necessário uma conta. Para registrar a presença dos alunos será necessário um computador e uma rede wi-FI que vai ser instalados na sala de aula.
     
  ## Funcionalidades
  
  <p aling="justify">
+ 
+
    
