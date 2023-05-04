@@ -21,8 +21,9 @@
   
   O sistema de chamadas online elemina a chamada pela caderneta, ou algo que possa ter perdas, rasura ou rasgar. Isso permite que o grande número de faltas diminuísse.
   
-  ![descriçao do projeto](https://user-images.githubusercontent.com/130559720/236103894-b64534cf-c2ae-4886-8747-f09434f34bf4.png)
+![descrição do projeto](https://user-images.githubusercontent.com/130559720/236107406-f7e91307-0798-4e61-a86e-80653bd9f139.png)
 
+   
 ## Como Funciona
   
   <p align="justify">
