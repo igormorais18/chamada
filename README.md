@@ -31,7 +31,7 @@
 ![como funciona](https://github.com/igormorais18/chamada/assets/130559720/80bd5b29-9202-4871-ac63-848e978ca928)
 
      
-  ## Funcionalidades
+## Funcionalidades
  
 # :hammer: Funcionalidades do projeto
      
@@ -39,13 +39,13 @@
  - `Funcionalidade 2`: Armazena dados como: nome, sobrenome, matrícula, faltas
  - `Funcionalidade 3`: Contabiliza os números de faltas
      
-  ## Ferramentas utilizadas
+## Ferramentas utilizadas
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
      
      
      
-  ## Pessoas Desenvolvedoras do Projeto
+## Pessoas Desenvolvedoras do Projeto
     
  <br><sub>fefesouza04</sub>(https://github.com/fefesouza04) | <br><sub>igormorais18</sub>(https://github.com/igormorais18) | <br><sub>bastossdavi</sub>(https://github.com/bastossdavi) |
 | :---: | :---: | :---: |
