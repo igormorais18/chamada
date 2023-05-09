@@ -11,7 +11,8 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Como Funciona](#como-funciona)
 * [Funcionalidades](#funcionalidades)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Ferramentas Ultilizadas](#Ferramentas-ltilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#Pessoas-Desenvolvedoras-do-Projeto)
 
 
 ## Descrição do projeto 
@@ -34,13 +35,19 @@
  
 # :hammer: Funcionalidades do projeto
      
- - `Funcionalidade 1`: Diminuir as faltas
- - `Funcionalidade 2`: Ajudar os professores, em questão de rasura, rasgar ou perdas
- - `Funcionalidade 3`: Atualizar os sistemas escolares 
+ - `Funcionalidade 1`: Realizar cadastro dos usuários, podendo ser aluno ou professor(a) 
+ - `Funcionalidade 2`: Armazena dados como: nome, sobrenome, matrícula, faltas
+ - `Funcionalidade 3`: Contabiliza os números de faltas
+     
+  ## Ferramentas utilizadas
+
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+     
+     
      
   ## Pessoas Desenvolvedoras do Projeto
     
- <br><sub>fefesouza04</sub>](https://github.com/fefesouza04) | <br><sub>igormorais18</sub>](https://github.com/igormorais18) | <br><sub>bastossdavi</sub>](https://github.com/bastossdavi) |
+ <br><sub>fefesouza04</sub>(https://github.com/fefesouza04) | <br><sub>igormorais18</sub>(https://github.com/igormorais18) | <br><sub>bastossdavi</sub>(https://github.com/bastossdavi) |
 | :---: | :---: | :---: |
 
    
