@@ -1,4 +1,5 @@
-![teste](https://user-images.githubusercontent.com/130559720/235909160-5ad891a7-97e0-4867-8689-5f24a4bfe3bb.jpg)
+![capa](https://github.com/igormorais18/chamada/assets/130559720/8fa08b32-848d-48d2-a71f-d4ce36417e0f)
+
 
 <hr>
 
@@ -47,7 +48,7 @@
      
 ## Pessoas Desenvolvedoras do Projeto
     
- <br><sub>fefesouza04</sub>(https://github.com/fefesouza04) | <br><sub>igormorais18</sub>(https://github.com/igormorais18) | <br><sub>bastossdavi</sub>(https://github.com/bastossdavi) |
-| :---: | :---: | :---: |
+<br><sub>Agata1523</sub>(https://github.com/agata1523) | <br><sub>bastossdavi</sub>(https://github.com/bastossdavi) | <br><sub>fefesouza04</sub>(https://github.com/fefesouza04) | <br><sub>igormorais18</sub>(https://github.com/igormorais18) | <br><sub>rafaela875</sub>(https://github.com/rafaela875)
+| :---: | :---: | :---: | :---: | :---: |
 
    
